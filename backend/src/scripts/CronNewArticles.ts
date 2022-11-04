@@ -4,7 +4,7 @@ import fetch from 'cross-fetch'
 
 const SPACE_FLIGHT_NEWS_API_URL = 'https://api.spaceflightnewsapi.net/v3/articles'
 
-export const CronNewArticlesJob = new CronJob('1 * * * * *', async () => {
+export const CronNewArticlesJob = new CronJob('0 0 9 * * *', async () => {
     try {
         const newestSpaceFlightApiArticleResponse = await fetch(`${SPACE_FLIGHT_NEWS_API_URL}?_limit=1`)
 
