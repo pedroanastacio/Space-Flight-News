@@ -14,7 +14,7 @@ Além disso, integra este projeto um website que consome a REST API desenvolvida
   #### 2) Acesse o diretório do projeto
    - Você pode acessar o diretório com o comando: ``$ cd Space-Flight-News``
    
-  ### Back-end
+  ### ◀️ Back-end
   #### 1) Acesse o diretório do back-end
    - Você pode acessar o diretório com o comando: ``$ cd backend``
    
@@ -27,7 +27,7 @@ Além disso, integra este projeto um website que consome a REST API desenvolvida
   #### 4) Execute o back-end
    - Execute o comando: ``$ npm run dev``.
    
-   ### Front-end
+   ### ▶️ Front-end
    #### 1) Acesse o diretório do front-end
    - Você pode acessar o diretório com o comando: ``$ cd frontend``
    
