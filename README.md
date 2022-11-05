@@ -6,7 +6,7 @@ Além disso, integra este projeto um website que consome a REST API desenvolvida
 
 > [Apresentação do projeto]()
    
-## ℹ️ Como executar a aplicação
+## 🚀 Como executar a aplicação
 
   #### 1) Clone o repositório
    - Para clonar o repositório você pode executar seguinte comando: ``$ git clone https://github.com/pedroanastacio/Space-Flight-News``
