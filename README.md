@@ -4,7 +4,7 @@
 Uma aplicação full-stack contando com uma REST API alimentada por dados da API pública Space Flight News.
 Além disso, integra este projeto um website que consome a REST API desenvolvida a fim de exibir artigos relacionadas a voos espaciais.
 
-> [Apresentação do projeto]()
+> [Apresentação do projeto](https://www.loom.com/embed/e0866982b3e647dabadd53223744ee82)
    
 ## 🚀 Como executar a aplicação
 
